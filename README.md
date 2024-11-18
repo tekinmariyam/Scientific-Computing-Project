@@ -1,2 +1,2 @@
 # Scientific-Computing-Project
-ODE
+heat equation numerical sol
